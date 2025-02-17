@@ -1,7 +1,7 @@
 # Arduino-Smart-Robot-Car
 An advanced autonomous robot car capable of line following, human following, obstacle detection, and predefined path navigation, designed for diverse applications in healthcare, industry, and security. The robot supports both autonomous and manual Bluetooth control via a smartphone app.
 
-# 🚗 Smart Robot Car for Industrial and Medical Applications 🤖  
+# 🚗 Multi-Purpose Smart Car (Arduino) 🤖  
 
 ## 📝 **Engineering Project Report**  
 
@@ -54,15 +54,14 @@ This project presents a cost-effective autonomous robot with multiple functional
 
 ---
 ### 🚀 **Future Enhancements:**  
-**- 🛰️ **GPS Integration:** For long-range navigation.  
+- 🛰️ **GPS Integration:** For long-range navigation.  
 - 🧠 **AI Path Planning:** Dynamic route adjustments.  
 - 🔋 **Power Management:** Improved battery efficiency.  
 - 🎥 **Camera Module:** Live video feed for remote surveillance.
 
 ---
-**### 🚀 **Contributions:**  
-- Contributions and suggestions are welcome! Submit a pull request or open an issue to improve the project.**
-````
+### 🚀 **Contributions:**  
+- Contributions and suggestions are welcome! Submit a pull request or open an issue to improve the project.
 ---
 - Developed by: **[srinivas] and Team**  
 - Institution: **Pragati Engineering College, Surampalem**  
