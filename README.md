@@ -3,8 +3,6 @@ An advanced autonomous robot car capable of line following, human following, obs
 
 # 🚗 Multi-Purpose Smart Car (Arduino) 🤖  
 
-## 📝 **Engineering Project Report**  
-
 ### 📌 **Project Overview:**  
 This project presents a cost-effective autonomous robot with multiple functionalities: **line following**, **human following**, **obstacle detection**, and **predefined path navigation**, designed for real-world applications in **healthcare, industry, and surveillance**.
 
